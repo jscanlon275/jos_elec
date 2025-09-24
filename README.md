@@ -1,0 +1,1 @@
+Preprocessing files ordered from 'A'-'G'. Some files have R1 or R2 at the beginning to indicate that changes were made for paper revisions. Additional files (not starting with capital letters) are functions used within the preprocessing scripts. See linked paper for more desciption and results. 
